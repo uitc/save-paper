@@ -3,35 +3,13 @@
 #### 介绍
 做精致PDF，享舒适阅读体验
 
-#### 软件架构
-软件架构说明
+本人普普通通一学生，常在网上找学习资料（没少白嫖过），有洁癖，看不惯扫描版的PDF和没的感情的文字识别（格式乱的无法忍受）。实在找不到心仪的版本，就只能自己动手一页页排版，然后收集起来，放到仓库：
 
+https://gitee.com/uitc/save-paper
 
-#### 安装教程
+为之后学习的同学节约点儿找资料的时间。（别问我叫啥，问就是雷锋）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+为了不影响强迫症的阅读体验，水印也不加了（作者大佬在上，我有啥资格呢哈哈哈）
 
-#### 使用说明
+还有，在此鸣谢所有书籍的作者和资源提供者，如有侵犯，还请见谅。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
